@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChươngTrinhInBarcode", "ChươngTrinhInBarcode.csproj", "{EB0CA5DF-3EA0-4274-9A95-E1A16E7FDB0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB0CA5DF-3EA0-4274-9A95-E1A16E7FDB0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB0CA5DF-3EA0-4274-9A95-E1A16E7FDB0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB0CA5DF-3EA0-4274-9A95-E1A16E7FDB0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB0CA5DF-3EA0-4274-9A95-E1A16E7FDB0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57076F92-A5B7-43F4-B3A9-A2E042BC6600}
+	EndGlobalSection
+EndGlobal

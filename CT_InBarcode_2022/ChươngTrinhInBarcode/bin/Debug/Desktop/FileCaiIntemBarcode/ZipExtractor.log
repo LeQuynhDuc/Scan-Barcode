@@ -1,0 +1,59 @@
+17 Tháng Mười 2022 09:57:40
+
+ZipExtractor started with following command line arguments.
+[0] c:\users\quynhduc-b2210\desktop\ungdungcty\ct_inbarcode_2022\chươngtrinhinbarcode\bin\debug\desktop\filecaiintembarcode\zipextractor.exe
+[1] --input
+[2] desktop/filecaiintembarcode\debug.zip
+[3] --output
+[4] c:\users\quynhduc-b2210\desktop\ungdungcty\ct_inbarcode_2022\chươngtrinhinbarcode\bin\debug
+[5] --executable
+[6] c:\users\quynhduc-b2210\desktop\ungdungcty\ct_inbarcode_2022\chươngtrinhinbarcode\bin\debug\chươngtrinhinbarcode.exe
+
+BackgroundWorker started successfully.
+Found total of 43 files and folders inside the zip file.
+Extracting Debug/ [2%]
+Extracting Debug/app.publish/ [4%]
+Extracting Debug/app.publish/ChươngTrinhInBarcode.exe [6%]
+Extracting Debug/AutoUpdate.dll [9%]
+Extracting Debug/AutoUpdater.NET.dll [11%]
+Extracting Debug/AutoUpdater.NET.pdb [13%]
+Extracting Debug/AutoUpdater.NET.xml [16%]
+Extracting Debug/ChươngTrinhInBarcode.application [18%]
+Extracting Debug/ChươngTrinhInBarcode.exe [20%]
+Extracting Debug/ChươngTrinhInBarcode.exe.config [23%]
+Extracting Debug/ChươngTrinhInBarcode.exe.manifest [25%]
+Extracting Debug/ChươngTrinhInBarcode.pdb [27%]
+Extracting Debug/Microsoft.Web.Infrastructure.dll [30%]
+Extracting Debug/Microsoft.Web.WebView2.Core.dll [32%]
+Extracting Debug/Microsoft.Web.WebView2.Core.xml [34%]
+Extracting Debug/Microsoft.Web.WebView2.WinForms.dll [37%]
+Extracting Debug/Microsoft.Web.WebView2.WinForms.xml [39%]
+Extracting Debug/Microsoft.Web.WebView2.Wpf.dll [41%]
+Extracting Debug/Microsoft.Web.WebView2.Wpf.xml [44%]
+Extracting Debug/Microsoft.Web.XmlTransform.dll [46%]
+Extracting Debug/NuGet.Core.dll [48%]
+Extracting Debug/runtimes/ [51%]
+Extracting Debug/runtimes/win-arm64/ [53%]
+Extracting Debug/runtimes/win-arm64/native/ [55%]
+Extracting Debug/runtimes/win-arm64/native/WebView2Loader.dll [58%]
+Extracting Debug/runtimes/win-x64/ [60%]
+Extracting Debug/runtimes/win-x64/native/ [62%]
+Extracting Debug/runtimes/win-x64/native/WebView2Loader.dll [65%]
+Extracting Debug/runtimes/win-x86/ [67%]
+Extracting Debug/runtimes/win-x86/native/ [69%]
+Extracting Debug/runtimes/win-x86/native/WebView2Loader.dll [72%]
+Extracting Debug/System.Web.Helpers.dll [74%]
+Extracting Debug/System.Web.Helpers.xml [76%]
+Extracting Debug/System.Web.Mvc.dll [79%]
+Extracting Debug/System.Web.Mvc.xml [81%]
+Extracting Debug/System.Web.Razor.dll [83%]
+Extracting Debug/System.Web.Razor.xml [86%]
+Extracting Debug/System.Web.WebPages.Deployment.dll [88%]
+Extracting Debug/System.Web.WebPages.Deployment.xml [90%]
+Extracting Debug/System.Web.WebPages.dll [93%]
+Extracting Debug/System.Web.WebPages.Razor.dll [95%]
+Extracting Debug/System.Web.WebPages.Razor.xml [97%]
+Extracting Debug/System.Web.WebPages.xml [100%]
+Successfully launched the updated application.
+
+
